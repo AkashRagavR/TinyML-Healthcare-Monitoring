@@ -131,15 +131,6 @@ code (`xgb_model.h`) generated from the trained model.
 
 Arduino Nano 33 BLE gave the fastest CNN inference; Sony Spresense gave
 the best energy efficiency and lowest power draw, making it the most
-suitable platform for battery-powered wearable deployment. ESP32-S3
+suitable platform for battery-powered wearable deployment. ESP32
 consumed more power but offers built-in wireless connectivity.
 
-## Future Work
-
-- Model quantization and pruning for further latency/energy reduction
-- Hardware-accelerated inference
-- Long-term wearable form-factor testing
-
-## License
-
-Add a license of your choice (e.g., MIT) before making the repo public.
