@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.pyc
+.vscode/
+
+Machine Learning/mitbih_train.csv
+Machine Learning/mitbih_test.csv
